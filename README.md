@@ -6,7 +6,7 @@
 - Deep Q Learning is used to train the model, QNet and QTrainer is used to train the model though the use of Pytorch.
 
 ### Initial setup of the Project
-<center><img src="assets/snake1.png" alt="centered image" style="height: 400px; width:800px;"/></center>
+<img src="assets/snake1.png" alt="Snake 1" style="height: 400px; width:800px;"/>
 
 ### Intermediate State of the Training
 <img src="https://github.com/KharbandaBhavy/Trained-Snake/blob/079f8296d6cf458cea1b50d7bc505618900b2500/assets/snake2.png" alt="Snake 2" style="height: 400px; width:1000px;"/>
